@@ -333,31 +333,31 @@ function startPhotoShow() {
   const photos = [
     {
       text: "kenalin 💕",
-      image: "./images/photo1.jpg",
+      image: "images/photo1.jpg",
     },
     {
-      text: " siapa yah",
-      image: "./images/photo2.jpg",
+      text: "siapa yah",
+      image: "images/photo2.jpg",
     },
     {
-      text: "INI ",
-      image: "./images/photo3.jpg",
+      text: "INI",
+      image: "images/photo3.jpg",
     },
     {
       text: "CEWEKU ❤️",
-      image: "./images/photo4.jpg",
+      image: "images/photo4.jpg",
     },
     {
       text: "YANG CANTIK",
-      image: "./images/photo5.jpg",
+      image: "images/photo5.jpg",
     },
     {
       text: "BAIK",
-      image: "./images/photo6.jpg",
+      image: "images/photo6.jpg",
     },
     {
       text: "LOVE YOU",
-      image: "./images/photo7.jpg",
+      image: "images/photo7.jpg",
     },
   ];
 
